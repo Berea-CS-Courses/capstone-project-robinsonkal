@@ -68,10 +68,11 @@ will be utilizing Python Pandas, dataframes, series
 
 
 # Website
-Another program that utilizes Altair graphical capabilities, for web page.
+Another program that utilizes Altair graphical capabilities, for web page
 
-Will be Voyant Inspired
+Shows data from the JSON file
 
+Voyant inspired graphical interfaces, seperated by date
 
 Webhosting
 
