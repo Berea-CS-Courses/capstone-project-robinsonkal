@@ -44,7 +44,7 @@ will be utilizing Python Pandas, dataframes, series
 ### EXPORTS: dog whistle, likelihood, a message in context, and location to a JSON file
 
 
-	Function1: Takes in message
+	Function1: Takes in messages
 			Needs to store the message for later
 			(Probably into a dataframe?)
 			Needs to differentiate between words such as The
