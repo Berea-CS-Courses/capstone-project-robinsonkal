@@ -55,6 +55,7 @@ will be utilizing Python Pandas, dataframes, series
 	Function2: Takes in list of most used words
 			Possibly comparing it to percentage of use in other sites
 			If I do this I will probably need to make my own scraper
+			Will probably need to scrape from NOW corpus
 			How often are these words used in regular online speech?
 			Exports: list of words with the percentage of difference.
 
