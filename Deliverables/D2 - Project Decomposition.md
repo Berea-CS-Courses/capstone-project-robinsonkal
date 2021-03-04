@@ -20,6 +20,8 @@ Might have to create my own webscraper later, probably will use premade one in p
 
 If so, I will utilize python libraries URL Lib and Beautiful Soup to do so, content will extract to JSON file
 
+Will run every month, at least
+
 
 
 # Python program
