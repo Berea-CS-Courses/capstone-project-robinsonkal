@@ -53,7 +53,8 @@ will be utilizing Python Pandas, dataframes, series
 			Exports: list of most used words
 
 	Function2: Takes in list of most used words
-			Possibly comparing it to other similar official sites words
+			Possibly comparing it to percentage of use in other sites
+			If I do this I will probably need to make my own scraper
 			How often are these words used in regular online speech?
 			Exports: list of words with the percentage of difference.
 
