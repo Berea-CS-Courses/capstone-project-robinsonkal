@@ -4,6 +4,9 @@ General Overview Data Flow Diagram:
 Another Data Flow Diagram, more advanced:
 ![image](https://user-images.githubusercontent.com/35353616/110727114-a07eea80-81e8-11eb-8144-2d72e7ccf3df.png)
 
+Digitized Dataflow, some improvements
+![Capstone Data-Flow](https://user-images.githubusercontent.com/35353616/111555581-1510d680-875f-11eb-9717-c5accf284564.png)
+
 Descriptions for each level of data flow diagram:
 ![image](https://user-images.githubusercontent.com/35353616/110727132-aa085280-81e8-11eb-9a28-f80c86846403.png)
 
