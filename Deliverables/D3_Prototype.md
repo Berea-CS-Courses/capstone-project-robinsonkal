@@ -20,3 +20,11 @@ Website Idea p2
 ![image](https://user-images.githubusercontent.com/35353616/110728207-a5449e00-81ea-11eb-9431-542cabc4d534.png)
 
 
+## Reflection
+
+1. The process made me realize some different things that I will need to think about when making my project
+2. The process helped me break down my design into smaller pieces
+3. I din't really have any lingering questions
+4. I feel somewhat prepared. There's still a lot of things that im going to have to learn or test out on the way though
+
+
