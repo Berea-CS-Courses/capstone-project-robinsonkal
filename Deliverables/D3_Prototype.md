@@ -27,8 +27,8 @@ Website Idea p2 digital
 ## Reflection
 
 1. The process made me realize some different things that I will need to think about when making my project
-2. The process helped me break down my design into smaller pieces
-3. I din't really have any lingering questions
-4. I feel somewhat prepared. There's still a lot of things that im going to have to learn or test out on the way though
+2. The process helped me break down my design into smaller pieces and helped me think about parts of my project that I hadn't thought of previously, like how my graphs be displayed on the website.
+4. I din't really have any lingering questions
+5. I feel somewhat prepared. There's still a lot of things that im going to have to learn or test out on the way though
 
 
