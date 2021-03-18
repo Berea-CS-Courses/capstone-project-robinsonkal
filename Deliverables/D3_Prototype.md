@@ -8,7 +8,7 @@ JSON File breakdowns
 ![JSONFILE DESCRIPTIONS](https://user-images.githubusercontent.com/35353616/111658293-965d7d00-87e2-11eb-8751-20bea6e496f1.JPG)
 
 Descriptions for each level of data flow diagram:
-![image](https://user-images.githubusercontent.com/35353616/110727132-aa085280-81e8-11eb-9a28-f80c86846403.png)
+![Process Writing](https://user-images.githubusercontent.com/35353616/111661916-d83bf280-87e5-11eb-9d8c-ebdeeccaa05a.JPG)
 
 Data Cleaning Pipeline
 ![image](https://user-images.githubusercontent.com/35353616/110830614-66a0f900-8267-11eb-99bc-559ec7141071.png)
