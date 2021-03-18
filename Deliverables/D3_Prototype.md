@@ -19,6 +19,10 @@ Website Idea p1
 Website Idea p2
 ![image](https://user-images.githubusercontent.com/35353616/110728207-a5449e00-81ea-11eb-9431-542cabc4d534.png)
 
+Website Idea p2 digital
+![Websitepic](https://user-images.githubusercontent.com/35353616/111561209-75f1dc00-876a-11eb-9265-94882803456f.JPG)
+
+
 
 ## Reflection
 
