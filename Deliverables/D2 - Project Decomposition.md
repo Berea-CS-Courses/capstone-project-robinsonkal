@@ -55,22 +55,17 @@ will be utilizing Python Pandas, dataframes, series
 ### EXPORTS: potential dog whistles to a JSON file
 
 
-	Function1: Takes in messages
-			Needs to store the message for later
-			(Probably into a dataframe?)
-			Needs to differentiate between words such as The
+	Process1:Takes in Cleaned data
+			Exports: Data that has been analyzed through NLTK processes, such as sentiment analysis
+	
+	Process2: Takes in messages
 			Exports: list of most used words
 
-	Function2: Takes in list of most used words
-			Possibly comparing it to percentage of use in other sites
-			If I do this I will probably need to make my own scraper
-			Will probably need to scrape from NOW corpus
-			How often are these words used in regular online speech?
+	Process3: Takes in list of most used words
+			Possibly comparing it to percentage of use in other word corpus's
+			Identifying often these words used in regular online speech, to imply dogwhistle usage.
 			Exports: list of words with the percentage of difference.
 
-	Function 3. Matches words with messages and origin
-			Puts data into data frame
-			Exports dataframe to database or JSON file
 
 
 # Python graphing program
@@ -84,8 +79,6 @@ Sends matched information to a JSON document that the website accesses
 
 
 # Website
-Another program that utilizes Altair graphical capabilities, for web page
-
 Shows data from the JSON file
 
 Voyant inspired graphical interfaces, seperated by date
