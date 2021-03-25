@@ -8,42 +8,39 @@ _____
 # Web Scraper Application
 
 
-Using an open-source social media web scraper
+Using a self made webscraper
 
-Exports full messages to a text document(JSON)
+Exports full raw text data(social media posts) to a text document
 
-4chan is ripe with problematic language, but it might be difficult to get
+4chan is ripe with problematic language, will be one of the websites used to detect dogwhistle-language
 
 Found a few 4chan threads
 
-Might have to create my own webscraper later, probably will use premade one in prototyping phase
+I utilize python libraries URL Lib and Beautiful Soup to do webscraping
 
-If so, I will utilize python libraries URL Lib and Beautiful Soup to do so, content will extract to JSON file
-
-Will run every month, at least
+Will run every month, at least. Considering every two weeks.
 
 
 
 # Python program
 
 
-### IMPORTS: full scraped message from a text document (JSON)
-Tracks words being used most frequently in Json File, lists them
+### IMPORTS: full scraped message from a text document 
 
 application needs to be able to filter out words such as the, though, etc.
 
-Python text analysis library? Keyword Extraction?
+Python text analysis library. Specifically the NLTK (natural language tool kit).
 
+NLTK processes such as sentiment analysis will be used on data.
 
-Scraping other websites for text analysis comparison ie this word only shows up this percent in other websites.
+Compares words most used to a corpus available from the NLTK.
 
 Program needs to be able to flag overused words.
-
 
 will be utilizing Python Pandas, dataframes, series
 
 
-### EXPORTS: dog whistle, likelihood, a message in context, and location to a JSON file
+### EXPORTS: potential dog whistles to a JSON file
 
 
 	Function1: Takes in messages
