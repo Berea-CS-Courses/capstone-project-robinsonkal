@@ -5,24 +5,36 @@
 _____
 
 
-# Web Scraper Application
+# Web Scraper Python Program
 
 
-Using a self made webscraper
+I am developing a self made webscraper
 
 Exports full raw text data(social media posts) to a text document
 
 4chan is ripe with problematic language, will be one of the websites used to detect dogwhistle-language
 
-Found a few 4chan threads
-
 I utilize python libraries URL Lib and Beautiful Soup to do webscraping
 
 Will run every month, at least. Considering every two weeks.
 
+# Python program that cleans and processes data, (data cleaning pipeline)
+This program gets the data ready to be analyzed by NLTK processes.
+
+Will remove un-needed data
+
+Will normalize case of text
+
+Will split up sentences into better to process bits
+
+Will potentially filter out stop-words
+
+Will potentially filter out data
+
+Will export cleaned data to next process
 
 
-# Python program
+# Python program that analyzes text and identifies dogwhistles
 
 
 ### IMPORTS: full scraped message from a text document 
@@ -61,11 +73,14 @@ will be utilizing Python Pandas, dataframes, series
 			Exports dataframe to database or JSON file
 
 
+# Python graphing program
+This python program will be sending pictures of graphical representations of data to the website
 
+Will be suing a python library called altair for graphing capabilities
 
+Will also be matching dog-whistles with contextual data to be shown on the website
 
-
-
+Sends matched information to a JSON document that the website accesses
 
 
 # Website
@@ -78,7 +93,6 @@ Voyant inspired graphical interfaces, seperated by date
 Webhosting
 
 Basic Front end design
-
 
 Python and Flask
 
