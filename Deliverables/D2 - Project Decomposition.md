@@ -77,6 +77,11 @@ Will also be matching dog-whistles with contextual data to be shown on the websi
 
 Sends matched information to a JSON document that the website accesses
 
+# JSON files
+Json files will be used to organize the transfer of data
+
+For example, between the graphing program and website will be a JSON organizational file
+
 
 # Website
 Shows data from the JSON file
