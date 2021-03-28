@@ -3,11 +3,25 @@
 ## Proof of concept
 Web Scraper Example
 
-#### TO DO: Embedd pictures
+![image](https://user-images.githubusercontent.com/35353616/112739722-9d079500-8f44-11eb-82cc-d2e38f4a1cb3.png)
+
+![image](https://user-images.githubusercontent.com/35353616/112739735-adb80b00-8f44-11eb-8fd0-18b8dfb956cf.png)
+
 
 NLTK sentiment Analysis Example
 
+
+![image](https://user-images.githubusercontent.com/35353616/112739568-48afe580-8f43-11eb-8667-4d60f4ada749.png)
+
+![image](https://user-images.githubusercontent.com/35353616/112739555-2cac4400-8f43-11eb-9cb8-5252fb6e8bc0.png)
+
+
 Text Corpus Comparison Example
+![image](https://user-images.githubusercontent.com/35353616/112739691-469a5680-8f44-11eb-8973-6ab71ec1dfc4.png)
+
+![image](https://user-images.githubusercontent.com/35353616/112739674-308c9600-8f44-11eb-8590-4cb26b2457c8.png)
+
+
 
 ## Concept Documentation
 1. Just python and the Natural Language Tool Kit Library, along with some NLTK downloads.
