@@ -37,4 +37,4 @@ I'm a bit more confident in the project since I was kind of able to identify som
 
 The hardest part so far was learning how to use the text corpus, so learning many new things very quickly has been most challenging
 
-I don't think I need anything from instructors yet, but when I get deeper into the project I might. 
+I don't think I need anything from instructors yet, but when I get deeper into the project I might in the future. 
