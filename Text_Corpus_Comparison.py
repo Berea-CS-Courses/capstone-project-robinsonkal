@@ -32,17 +32,18 @@ def rare_words(corp_type):
     #    print(wordsss[j])
         if split_message[j] in webtext.raw(corp_type)[:100000000]:
             #print(split_message[j]+" is not in")
-            print(split_message[j])
+            #print(split_message[j])
             split_message.remove(split_message[j])
-            print(split_message)
+            #print(split_message)
         j+=1
 
 
 #for fileid in webtext.fileids():
 #    print(fileid)
 if __name__ == '__main__':
-    for fileid in webtext.fileids():
-        print(fileid)
+    #for fileid in webtext.fileids():
+    #    print(fileid)
+    print(custom_tweet)
     split_message=custom_tweet.split()
     rare_words("firefox.txt")
     rare_words("grail.txt")
@@ -50,4 +51,5 @@ if __name__ == '__main__':
     rare_words("overheard.txt")
     rare_words("wine.txt")
     rare_words("singles.txt")
+    print("Most rare words: "+ split_message[0]+" "+split_message[1]+" "+split_message[2])
 

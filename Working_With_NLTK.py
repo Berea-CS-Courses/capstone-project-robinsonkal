@@ -125,19 +125,20 @@ custom_tweet = "shut the fuck up retard you're just spamming meaning replies so 
 
 custom_tokens = remove_noise(word_tokenize(custom_tweet))
 
+print(custom_tweet)
 print(classifier.classify(dict([token, True] for token in custom_tokens)))
 
-split_message=custom_tweet.split()
-j=0
-print(webtext)
+#split_message=custom_tweet.split()
+#j=0
+#print(webtext)
 #for i in wordsss:
     #print(j)
 #    print(wordsss[j])
    # if wordsss[j] in webtext.raw:
     #    print(wordsss[j]+"is in")
 #    j+=1
-for fileid in webtext.fileids():
-    if split_message[j] in (webtext.raw(fileid)[:65]):
-        print(split_message[j]+" is in")
-    j+=1
-    print(j)
+#for fileid in webtext.fileids():
+#    if split_message[j] in (webtext.raw(fileid)[:65]):
+#        print(split_message[j]+" is in")
+#    j+=1
+#    print(j)
