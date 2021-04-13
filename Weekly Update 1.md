@@ -1,6 +1,6 @@
 # Update for the week of April 5th
 
-## Main updates
+## 1.
 
 - I've decided to shift focus to the rueters corpus. It is a collection of 10,000+ news stories, containing 13.3 million words. 
 
@@ -8,9 +8,33 @@
 
 - I plan on comparing the data resulting from word frequency to the data taken from my webscraper in order to see the words that are being used the most.
 
+- This week I created the code that exports a dataframe to a csv. In this dataframe was words, word usage, and percentage of use
+
+## 2. 
+
+- It takes a long time to run the program
+
+- A lot of this is new to me so i'm learning on the fly
+
+- Other than the learning curve, it's been going pretty smoothly
+
+
+## 3. 
 - From here on out, a large part of the project will be seeing what kind of results I get from using different types of data in different ways
 
 - My next step will be to set up a similar file for my webscraper
+
+- I want to successfully scrape useful data from the website   -2 days
+
+- I want to clean that data    -1 day
+
+- I want that data put into a new excel doc    -1 day
+
+## 4.
+- I'm using beautiful soup and python pandas
+
+- 4chan
+
 
 ## Code and results
 
