@@ -8,7 +8,7 @@
 
 - I plan on comparing the data resulting from word frequency to the data taken from my webscraper in order to see the words that are being used the most.
 
-- This week I created the code that exports a dataframe to a csv. In this dataframe was words, word usage, and percentage of use
+- This week I created the code that exports a dataframe (made from the reuters corpus) to a csv. In this dataframe was words, word usage, and percentage of use
 
 ## 2. 
 
