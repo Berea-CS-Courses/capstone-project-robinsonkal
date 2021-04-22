@@ -29,3 +29,21 @@
 - NLTK sentiment analysis along with other NLTK tools
 
 
+# Pictures of stop word code
+
+removed stop words for webscraper
+![image](https://user-images.githubusercontent.com/35353616/115752880-89472700-a368-11eb-937d-efcdd21fd159.png)
+
+and the reuter corpus
+
+![image](https://user-images.githubusercontent.com/35353616/115753301-0a062300-a369-11eb-8536-fc6296c5a8a9.png)
+
+
+- you may have noticed it kept in the letter "u" I could easily remedy this by simply adding u to the list of stop words.
+
+![image](https://user-images.githubusercontent.com/35353616/115753594-5e110780-a369-11eb-944c-a8f01ad1c343.png)
+
+Here is a picture of the resulting excel doc from comparing the data, being inspiration to make the data easier to clean. 
+
+
+
