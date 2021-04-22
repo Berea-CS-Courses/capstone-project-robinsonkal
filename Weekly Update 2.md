@@ -1,4 +1,4 @@
-# Update for the week of April 5th
+# Update for the 2nd week of self reports
 
 ## 1.
 - This week I accomplished this weeks goals
