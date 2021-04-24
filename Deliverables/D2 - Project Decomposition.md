@@ -5,75 +5,85 @@
 _____
 
 
-# Web Scraper Application
+# Web Scraper Python Program
 
 
-Using an open-source social media web scraper
+I am developing a self made webscraper
 
-Exports full messages to a text document(JSON)
+Exports full raw text data(social media posts) to a text document
 
-4chan is ripe with problematic language, but it might be difficult to get
+4chan is ripe with problematic language, will be one of the websites used to detect dogwhistle-language
 
-Found a few 4chan threads
+I utilize python libraries URL Lib and Beautiful Soup to do webscraping
 
-Might have to create my own webscraper later, probably will use premade one in prototyping phase
+Will run every month, at least. Considering every two weeks.
 
-If so, I will utilize python libraries URL Lib and Beautiful Soup to do so, content will extract to JSON file
+# Python program that cleans and processes data, (data cleaning pipeline)
+This program gets the data ready to be analyzed by NLTK processes.
 
-Will run every month, at least
+Will remove un-needed data
+
+Will normalize case of text
+
+Will split up sentences into better to process bits
+
+Will potentially filter out stop-words
+
+Will potentially filter out data
+
+Will export cleaned data to next process
 
 
+# Python program that analyzes text and identifies dogwhistles
 
-# Python program
 
-
-### IMPORTS: full scraped message from a text document (JSON)
-Tracks words being used most frequently in Json File, lists them
+### IMPORTS: full scraped message from a text document 
 
 application needs to be able to filter out words such as the, though, etc.
 
-Python text analysis library? Keyword Extraction?
+Python text analysis library. Specifically the NLTK (natural language tool kit).
 
+NLTK processes such as sentiment analysis will be used on data.
 
-Scraping other websites for text analysis comparison ie this word only shows up this percent in other websites.
+Compares words most used to a corpus available from the NLTK.
 
 Program needs to be able to flag overused words.
-
 
 will be utilizing Python Pandas, dataframes, series
 
 
-### EXPORTS: dog whistle, likelihood, a message in context, and location to a JSON file
+### EXPORTS: potential dog whistles to a JSON file
 
 
-	Function1: Takes in messages
-			Needs to store the message for later
-			(Probably into a dataframe?)
-			Needs to differentiate between words such as The
+	Process1:Takes in Cleaned data
+			Exports: Data that has been analyzed through NLTK processes, such as sentiment analysis
+	
+	Process2: Takes in messages
 			Exports: list of most used words
 
-	Function2: Takes in list of most used words
-			Possibly comparing it to percentage of use in other sites
-			If I do this I will probably need to make my own scraper
-			Will probably need to scrape from NOW corpus
-			How often are these words used in regular online speech?
+	Process3: Takes in list of most used words
+			Possibly comparing it to percentage of use in other word corpus's
+			Identifying often these words used in regular online speech, to imply dogwhistle usage.
 			Exports: list of words with the percentage of difference.
 
-	Function 3. Matches words with messages and origin
-			Puts data into data frame
-			Exports dataframe to database or JSON file
 
 
+# Python graphing program
+This python program will be sending pictures of graphical representations of data to the website
 
+Will be suing a python library called altair for graphing capabilities
 
+Will also be matching dog-whistles with contextual data to be shown on the website
 
+Sends matched information to a JSON document that the website accesses
 
+# JSON files
+Json files will be used to organize the transfer of data
 
+For example, between the graphing program and website will be a JSON organizational file
 
 
 # Website
-Another program that utilizes Altair graphical capabilities, for web page
-
 Shows data from the JSON file
 
 Voyant inspired graphical interfaces, seperated by date
@@ -81,7 +91,6 @@ Voyant inspired graphical interfaces, seperated by date
 Webhosting
 
 Basic Front end design
-
 
 Python and Flask
 

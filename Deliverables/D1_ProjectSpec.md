@@ -51,8 +51,8 @@ of the scope of this project.
 
 * Has to scrape data from a website (Testing to establish what sites, but a few come to mind)
 * Has to process data (Testing required on methodoligies)
-* Has to put data into a database
-* database has to update, delete, and insert
+* Has to put data into a file
+* file(s) need to be somewhat organized
 * Has to show data in a way that is useful, maybe in a graphical context
 * Has to refresh data every few weeks to establish new vocabulary
 
