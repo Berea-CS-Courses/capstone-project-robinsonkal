@@ -44,6 +44,9 @@ It’s happening because its first appearance in the text file is the last word 
 4.
 Other than that, testing went well. I tested both the corpus code and the web scraping code similarly since both programs have to clean the data in similar ways. I had to edit the functions since they weren’t designed to take in such low word counts(specifically the corpus code was specifically meant to loop 10788 times since that is the number of files available. I got around this by getting rid of the loop and passing through my test variable instead.) I also had to edit functions to return at certain points to test certain variables. In the text web scraper program, for example, I separated one function into two, to test the repeating functionality and the word cleaning functionality separately. 
 
+![image](https://user-images.githubusercontent.com/35353616/118833263-50c73a00-b88f-11eb-974d-8ea4466a0fbd.png)
+
+
 As for the comparing the data program, I couldn’t think of any unit tests that I could perform that would be worthwhile. I was actually finding many problems in the comparing file using end-to-end testing so that was most helpful for this part of the project specifically.
 
 
